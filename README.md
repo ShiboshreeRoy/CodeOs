@@ -23,12 +23,12 @@
    ```
 3. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/code-os.git
-   cd code-os
+   git clone https://github.com/ShiboshreeRoy/CodeOs.git
+   cd CodeOs
    ```
 4. Run the editor:
    ```sh
-   python3 code_os.py
+   python3 CodeOs.py
    ```
 
 ### Termux (Android CLI)
